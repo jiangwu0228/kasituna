@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kasituna
+- 👋 Hi, I’m @kasituna you can call me Jason
 - 👀 I’m interested in frontend and ues to be designer
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on personal blog project
